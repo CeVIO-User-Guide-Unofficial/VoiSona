@@ -1,1 +1,85 @@
-site_name: My Docs
+site_name: VoiSona 用户指南
+site_description: 非官方的 VoiSona 用户指南中文版翻译
+repo_url: https://github.com/CeVIO-User-Guide-Unofficial/VoiSona
+repo_name: CUGU/VoiSona
+
+# Theme
+theme:
+  custom_dir: overrides                  # This is where the customization of the theme lives
+  name: material
+  features:
+    - announce.dismiss
+    - content.tooltips
+    - content.code.annotate
+    - content.code.copy
+    - navigation.tabs
+    - navigation.tabs.sticky
+    - navigation.expand
+    - navigation.top
+    - navigation.footer
+  icon:
+    logo: fontawesome/solid/book
+    favicon: images/c-solid.png
+    repo: fontawesome/brands/github
+  language: zh
+  palette:
+    - media: "(prefers-color-scheme: light)" 
+      scheme: default
+      primary: light blue
+      toggle:
+        icon: material/weather-night
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)" 
+      scheme: slate
+      primary: light blue
+      toggle:
+        icon: material/weather-sunny
+        name: Switch to light mode
+
+# Extensions
+markdown_extensions:
+  - abbr
+  - attr_list
+  - admonition
+  - def_list
+  - footnotes
+  - md_in_html
+  - pymdownx.caret
+  - pymdownx.details
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.keys:
+      key_map:
+        mouse-wheel: "Mouse wheel"
+  - pymdownx.snippets
+  - pymdownx.superfences
+  - pymdownx.tilde
+  - pymdownx.tabbed:
+      alternate_style: true 
+  - tables
+  - toc:
+      toc_depth: 6
+
+plugins:
+  - search:
+      separator: '[\s\u200b\-]'
+  - glightbox
+  - git-revision-date-localized:
+      type: date
+      enable_creation_date: true
+  # - offline:
+  #     enabled: !ENV [OFFLINE, false]
+  #- privacy:
+  #    links_attr_map:
+  #      target: _blank
+
+# Contents
+nav:
+  - index.md
+  - VoiSona: 
+    - manual_song.md
+    - faq.md
+  - VoiSona Talk:
+    - manual_talk.md
+
