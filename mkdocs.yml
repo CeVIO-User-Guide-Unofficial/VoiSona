@@ -12,11 +12,12 @@ theme:
     - content.tooltips
     - content.code.annotate
     - content.code.copy
-    - navigation.tabs
-    - navigation.tabs.sticky
+    - navigation.sections
     - navigation.expand
     - navigation.top
     - navigation.footer
+    - toc.follow
+    - toc.integrate
   icon:
     logo: fontawesome/solid/book
     favicon: images/c-solid.png
@@ -76,10 +77,16 @@ plugins:
 
 # Contents
 nav:
-  - index.md
-  - VoiSona: 
-    - manual_song.md
-    - faq.md
-  - VoiSona Talk:
-    - manual_talk.md
-
+  - 首页: index.md
+  - VoiSona Song:
+    - 用户指南: song/manual.md
+    - 快速入门: song/quickstart.md
+    - 安装 VoiSona: song/install.md
+    - 启动 VoiSona: song/launch.md
+    - 登录: song/login.md
+    - 选择声库: song/select-voice.md
+    - 编辑乐谱: song/edit-score.md
+    - 调整参数: song/adjust-params.md
+    - 导入与导出: song/import-export.md
+    - 环境设置: song/settings.md
+    - 常见问题: song/faq.md
