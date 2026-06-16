@@ -87,7 +87,7 @@
 
 #### 禁用参数效果
 
-在 PIT 和 VIB（Detailed 模式）中，可以禁用已绘制参数的效果。按住 Shift 键的同时使用「橡皮擦工具」拖动原本设置的参数线条，线条将变为白色，该部分的参数将被禁用。
+在 PIT 和 VIB（Detailed 模式）中，可以禁用已绘制参数的效果。按住 <kbd>Shift</kbd> 键的同时使用「橡皮擦工具」拖动原本设置的参数线条，线条将变为白色，该部分的参数将被禁用。
 
 > 禁用部分的效果如下：
 > - PIT：失去音高，变为沙哑的歌声。
@@ -99,7 +99,7 @@
 
 #### 连接调整模式
 
-调整音高、音量和颤音时，按住 Alt 键拖动，可以绘制平滑连接到原始值的线条。按住 Alt 键拖动时会绘制红色线条，松开 Alt 键后，红色线条与原始线条的连接点之间的部分将反映为调整值。按住 Alt 键期间会显示反映调整值的单线画面，方便确认有效值。
+调整音高、音量和颤音时，按住 <kbd>Alt</kbd> 键拖动，可以绘制平滑连接到原始值的线条。按住 <kbd>Alt</kbd> 键拖动时会绘制红色线条，松开 <kbd>Alt</kbd> 键后，红色线条与原始线条的连接点之间的部分将反映为调整值。按住 <kbd>Alt</kbd> 键期间会显示反映调整值的单线画面，方便确认有效值。
 
 ![连接调整1](https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/voisona-manual/2e1e9bc7-efb1-80cb-bb64-e0578872b139/5b4c86374f4ae138baf87ac8101fd5ea.png)
 ![连接调整2](https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/voisona-manual/2e1e9bc7-efb1-80a3-a692-c16140d99aea/039449e5470dfeaece9400ccdbbdc121.png)

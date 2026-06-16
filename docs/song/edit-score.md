@@ -41,9 +41,9 @@
 2. 点击音符。
    ![选择音符](https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/voisona-manual/348e9bc7-efb1-8027-9ac5-c85fe60bbda6/9df4e8e4be527957577f2cad2c1a6591.png)
 
-> 按 Esc 键可取消音符的选择。
+> 按 <kbd>Esc</kbd> 键可取消音符的选择。
 > 
-> 当输入了多个音符时，按 Home 键可选择第一个音符，按 End 键可选择最后一个音符。
+> 当输入了多个音符时，按 <kbd>Home</kbd> 键可选择第一个音符，按 <kbd>End</kbd> 键可选择最后一个音符。
 
 ---
 
@@ -52,11 +52,11 @@
 以下方法可选择多个音符。选中的音符可以批量进行移动、复制、删除等操作。
 
 - **拖动包围多个音符**：批量选择多个音符
-- **Ctrl + 点击**：逐个选择多个音符
-- **Shift + 点击**：连续选择多个音符
-- **Shift + 左右方向键**：逐个选择连续音符
-- **点击音符 → Shift + Home**：选择点击音符之前的所有音符
-- **点击音符 → Shift + End**：选择点击音符之后的所有音符
+- **<kbd>Ctrl</kbd> + 点击**：逐个选择多个音符
+- **<kbd>Shift</kbd> + 点击**：连续选择多个音符
+- **<kbd>Shift</kbd> + 左右方向键**：逐个选择连续音符
+- **点击音符 → <kbd>Shift</kbd> + <kbd>Home</kbd>**：选择点击音符之前的所有音符
+- **点击音符 → <kbd>Shift</kbd> + <kbd>End</kbd>**：选择点击音符之后的所有音符
 
 ![批量选择](https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/voisona-manual/348e9bc7-efb1-80f2-83d2-d93e224fa956/f1f43f1649e74b95d2adfd3b38e9f013.png)
 
@@ -112,13 +112,13 @@
 
 ---
 
-### 使用 Ctrl 键切换工具
+### 使用 <kbd>Ctrl</kbd> 键切换工具
 
-按住 Ctrl 键可以临时切换当前工具，免去选择工具的麻烦。
+按住 <kbd>Ctrl</kbd> 键可以临时切换当前工具，免去选择工具的麻烦。
 
 1. 选择任意工具。
    ![工具](https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/voisona-manual/348e9bc7-efb1-806a-9a2b-dc358e8ede94/4efe1b9f78c018b856471eb7df92135a.png)
-2. 按住 Ctrl 键。按住期间当前工具会按以下方式切换：
+2. 按住 <kbd>Ctrl</kbd> 键。按住期间当前工具会按以下方式切换：
     - 「钢笔工具」「线条工具」→「橡皮擦工具」
     - 「橡皮擦工具」→「选择工具」
     - 「选择工具」「批量选择工具」「分割合并工具」→「钢笔工具」
@@ -138,7 +138,7 @@
 3. 输入歌词并确认。
    ![输入歌词](https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/voisona-manual/348e9bc7-efb1-80ce-b6b6-faf3b4d53fdb/88f9685969fae2536b1ab155d8589432.png)
 
-> 输入中，按 Tab 键移动到下一个音符，按 Shift + Tab 键移动到上一个音符。
+> 输入中，按 <kbd>Tab</kbd> 键移动到下一个音符，按 <kbd>Shift</kbd> + <kbd>Tab</kbd> 键移动到上一个音符。
 > 
 > 在歌词中间输入空格，空格后的歌词将被分配到下一个音符。
 

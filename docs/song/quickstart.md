@@ -20,7 +20,7 @@
 6. 在钢琴卷帘上拖动。  
    音符将被输入。
    ![输入音符](https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/voisona-manual/2bde9bc7-efb1-80a4-8260-fb712a6f745b/156069d2d68a55661159513f08f1ab5e.png)
-7. 双击音符，输入文字后按 Enter 确认。  
+7. 双击音符，输入文字后按 <kbd>Enter</kbd> 确认。  
    歌词将被更改。
    ![编辑歌词](https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/voisona-manual/2bde9bc7-efb1-8062-b135-f02fa7a38f08/6e063805d5f06f2a88c917f6c10ab2ec.png)
 8. 点击钢琴卷帘上方显示的标尺。  
