@@ -12,11 +12,14 @@ theme:
     - content.tooltips
     - content.code.annotate
     - content.code.copy
+    - navigation.sections
+    - navigation.expand
     - navigation.tabs
     - navigation.tabs.sticky
-    - navigation.expand
     - navigation.top
     - navigation.footer
+    - toc.follow
+    - toc.integrate
   icon:
     logo: fontawesome/solid/book
     favicon: images/c-solid.png
@@ -25,16 +28,20 @@ theme:
   palette:
     - media: "(prefers-color-scheme: light)" 
       scheme: default
-      primary: light blue
+      primary: orange
       toggle:
         icon: material/weather-night
-        name: Switch to dark mode
+        name: 切换到深色主题
     - media: "(prefers-color-scheme: dark)" 
       scheme: slate
-      primary: light blue
+      primary: orange
       toggle:
         icon: material/weather-sunny
-        name: Switch to light mode
+        name: 跟随系统
+    - media: "(prefers-color-scheme)"
+      toggle:
+        icon: material/brightness-auto
+        name: 切换到浅色主题
 
 # Extensions
 markdown_extensions:
@@ -46,12 +53,15 @@ markdown_extensions:
   - md_in_html
   - pymdownx.caret
   - pymdownx.details
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
   - pymdownx.highlight:
       anchor_linenums: true
   - pymdownx.inlinehilite
   - pymdownx.keys:
       key_map:
-        mouse-wheel: "Mouse wheel"
+        mouse-wheel-up-down: "鼠标滚轮↕"
   - pymdownx.snippets
   - pymdownx.superfences
   - pymdownx.tilde
@@ -76,10 +86,29 @@ plugins:
 
 # Contents
 nav:
-  - index.md
-  - VoiSona: 
-    - manual_song.md
-    - faq.md
+  - 首页: index.md
+  - VoiSona Song:
+    - 用户指南: song/manual.md
+    - 快速入门: song/quickstart.md
+    - 安装 VoiSona: song/install.md
+    - 启动 VoiSona: song/launch.md
+    - 登录: song/login.md
+    - 选择声库: song/select-voice.md
+    - 编辑乐谱: song/edit-score.md
+    - 调整参数: song/adjust-params.md
+    - 导入与导出: song/import-export.md
+    - 环境设置: song/settings.md
+    - 常见问题: song/faq.md
   - VoiSona Talk:
-    - manual_talk.md
-
+    - 用户指南: talk/manual.md
+    - 快速入门: talk/quickstart.md
+    - 安装 VoiSona: talk/install.md
+    - 登录: talk/login.md
+    - 选择声库: talk/select-voice.md
+    - 输入台词: talk/enter-sentence.md
+    - 编辑台词: talk/edit-sentence.md
+    - 调整参数: talk/adjust-params.md
+    - 导入与导出: talk/import-export.md
+    - 环境设置: talk/settings.md
+    - REST API 教程: talk/rest-api.md
+    - 常见问题: talk/faq.md
