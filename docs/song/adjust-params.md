@@ -12,7 +12,7 @@
 
 1. 点击「参数」按钮，显示面板。
 2. 直接输入数值或使用滑块进行调整。
-   ![全局参数面板](https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/voisona-manual/348e9bc7-efb1-80a3-8604-d14fbe2925a1/242bdf56771349afe84b59dd275eadcb.png)
+   ![全局参数面板](images/song_adjust-params_Adjusting_Parameters_1.png)
 
 !!! info "可调整的参数"
 
@@ -35,7 +35,7 @@
 1. 点击「TMG」显示调整画面。
 2. 选择「钢笔工具」或「线条工具」。
 3. 拖动状态线。
-   ![时机调整](https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/voisona-manual/348e9bc7-efb1-8026-979d-cbdf40c633af/7ddaf5e6f3492f8cc45b71ce452487a2.png)
+   ![时机调整](images/song_adjust-params_Adjusting_Parameters_2.png)
 
 ---
 
@@ -45,7 +45,7 @@
 
 !!! info
       在比音素更细的粒度上调整时机，效果可能不太明显。
-      ![细粒度时机](https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/voisona-manual/348e9bc7-efb1-8086-a8cd-e21248c55152/6e79812a3cb2cb4069ab1536294c07aa.png)
+      ![细粒度时机](images/song_adjust-params_Adjusting_Parameters_3.png)
 
 ---
 
@@ -53,7 +53,7 @@
 
 使用「选择工具」指定范围后，右键点击选择「元音时间修正」。这样会将线条自动调整，使元音位于音符开头。
 
-![元音时间修正](https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/voisona-manual/348e9bc7-efb1-8027-be33-c8161bc99526/a7521da96f642409bae9b8c7c65645ee.png)
+![元音时间修正](images/song_adjust-params_Adjusting_Parameters_4.png)
 
 ---
 
@@ -64,7 +64,7 @@
 1. 点击「VOL」「PIT」「ALP」「HUS」之一显示调整画面。
 2. 选择「钢笔工具」或「线条工具」。
 3. 绘制线条。
-   ![参数绘制](https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/voisona-manual/348e9bc7-efb1-80bf-bef7-ffd42a998cc2/c10267ea1dfd024c3280a3cad8dc3bb2.png)
+   ![参数绘制](images/song_adjust-params_Adjusting_Parameters_5.png)
 
 !!! info "可调整的参数"
       - VOL（音量）：单位是 dB（分贝）。
@@ -79,9 +79,9 @@
 要复制参数线条，使用「选择工具」选择范围后，执行以下任一操作：
 
 - 仅复制自己绘制的线条：复制后，使用播放位置光标指定位置，然后粘贴。
-  ![复制线条](https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/voisona-manual/348e9bc7-efb1-8066-858e-f505d306f257/74f8b18ad94ce91de1e10d888c9ce406.png)
+  ![复制线条](images/song_adjust-params_Adjusting_Parameters_6.png)
 - 复制原始线条和自己绘制的线条：上下拖动范围内的线条。自己绘制线条的部分会被覆盖，其他部分则直接复制原始参数线条。
-  ![拖动复制](https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/voisona-manual/348e9bc7-efb1-80e9-8798-d880f343fe24/7c73365f806cb22dca5d988dc3454665.png)
+  ![拖动复制](images/song_adjust-params_Adjusting_Parameters_7.png)
 
 ---
 
@@ -94,7 +94,7 @@
       - PIT：失去音高，变为沙哑的歌声。
       - VIB：没有颤音，变为平坦的歌声。
 
-![禁用参数](https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/voisona-manual/348e9bc7-efb1-8011-a7f0-d67bd6acc1ee/7403c5f75275bdddcde6e230660f4239.png)
+![禁用参数](images/song_adjust-params_Adjusting_Parameters_8.png)
 
 ---
 
@@ -102,8 +102,8 @@
 
 调整音高、音量和颤音时，按住 <kbd>Alt</kbd> 键拖动，可以绘制平滑连接到原始值的线条。按住 <kbd>Alt</kbd> 键拖动时会绘制红色线条，松开 <kbd>Alt</kbd> 键后，红色线条与原始线条的连接点之间的部分将反映为调整值。按住 <kbd>Alt</kbd> 键期间会显示反映调整值的单线画面，方便确认有效值。
 
-![连接调整1](https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/voisona-manual/2e1e9bc7-efb1-80cb-bb64-e0578872b139/5b4c86374f4ae138baf87ac8101fd5ea.png)
-![连接调整2](https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/voisona-manual/2e1e9bc7-efb1-80a3-a692-c16140d99aea/039449e5470dfeaece9400ccdbbdc121.png)
+![连接调整1](images/song_adjust-params_Adjusting_Parameters_12.png)
+![连接调整2](images/song_adjust-params_Adjusting_Parameters_13.png)
 
 ---
 
@@ -118,7 +118,7 @@
     - 调整开始/结束位置：光标对准框的边缘，变为箭头后左右拖动。
     - 调整振幅：光标对准框，变为箭头后上下拖动。
     - 调整频率：从框内向外左右拖动。
-      ![颤音调整](https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/voisona-manual/348e9bc7-efb1-8071-9cb7-d58b9d6c80bc/ce74c6f903b97181d2a4ccbed764f169.png)
+      ![颤音调整](images/song_adjust-params_Adjusting_Parameters_9.png)
 
 !!! info "关于振幅与频率"
       - 振幅：单位是 Cent（音分），100 Cent 相当于上下半音。数值越大，波的上下振幅越大。
@@ -130,7 +130,7 @@
 
 点击钢琴卷帘右上角的「Detailed」按钮切换模式。画面将分为上下两部分，上方的「Amp.」可自由调整振幅，下方的「Frq.」可自由调整周期。基本操作与[调整其他参数](#_7)相同，但在其中一个画面中添加或删除线条时，另一个画面也会自动反映。
 
-![Detailed模式](https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/voisona-manual/348e9bc7-efb1-80de-8b16-d8bb00e001ea/2558de1efffe49055fec37d115ae9d3d.png)
+![Detailed模式](images/song_adjust-params_Adjusting_Parameters_10.png)
 
 ---
 
@@ -140,4 +140,4 @@
 
 1. 选择「批量选择工具」。
 2. 左右拖动，使音符和参数包含在选中范围内。
-   ![批量选择](https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/voisona-manual/348e9bc7-efb1-8024-947a-ccccc4646fa8/eeb74f3554dc539e385e20e28d57c345.png)
+   ![批量选择](images/song_adjust-params_Adjusting_Parameters_11.png)
