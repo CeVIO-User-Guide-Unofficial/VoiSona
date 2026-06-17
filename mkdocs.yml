@@ -99,3 +99,16 @@ nav:
     - 导入与导出: song/import-export.md
     - 环境设置: song/settings.md
     - 常见问题: song/faq.md
+  - VoiSona Talk:
+    - 用户指南: talk/manual.md
+    - 快速入门: talk/quickstart.md
+    - 安装 VoiSona: talk/install.md
+    - 登录: talk/login.md
+    - 选择声库: talk/select-voice.md
+    - 输入台词: talk/enter-sentence.md
+    - 编辑台词: talk/edit-sentence.md
+    - 调整参数: talk/adjust-params.md
+    - 导入与导出: talk/import-export.md
+    - 环境设置: talk/settings.md
+    - REST API 教程: talk/rest-api.md
+    - 常见问题: talk/faq.md
