@@ -4,7 +4,8 @@
 
 # VoiSona 用户指南
 
-> 学习 VoiSona 的使用方法。
+!!! info
+      学习 VoiSona 的使用方法。
 
 欢迎来到 VoiSona 非官方中文用户指南。本指南将帮助您了解如何使用 VoiSona 歌声合成软件。
 

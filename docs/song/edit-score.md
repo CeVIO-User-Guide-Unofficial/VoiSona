@@ -18,8 +18,9 @@
 2. 在钢琴卷帘上点击或左右拖动。
    ![输入音符](https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/voisona-manual/348e9bc7-efb1-80b5-a226-c3449797220c/0a8d32b10280437c98289afc6fda37ee.png)
 
-> 当存在多个歌曲轨道时，其他轨道的音符位置也会显示在钢琴卷帘上。
-> ![多轨道](https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/voisona-manual/348e9bc7-efb1-802b-b598-fb730205ed5e/02f5df926c2d1e602877e745fcec79a0.png)
+!!! info
+      当存在多个歌曲轨道时，其他轨道的音符位置也会显示在钢琴卷帘上。
+      ![多轨道](https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/voisona-manual/348e9bc7-efb1-802b-b598-fb730205ed5e/02f5df926c2d1e602877e745fcec79a0.png)
 
 ---
 
@@ -29,7 +30,8 @@
 
 ![量化设置](https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/voisona-manual/348e9bc7-efb1-800f-8a6d-d66472916537/2d620c65e7a645a44389f270438fbf70.png)
 
-> 选中音符后右键点击选择「量化」，可将已输入的音符按照当前量化设置进行整理。
+!!! info
+      选中音符后右键点击选择「量化」，可将已输入的音符按照当前量化设置进行整理。
 
 ---
 
@@ -41,9 +43,11 @@
 2. 点击音符。
    ![选择音符](https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/voisona-manual/348e9bc7-efb1-8027-9ac5-c85fe60bbda6/9df4e8e4be527957577f2cad2c1a6591.png)
 
-> 按 <kbd>Esc</kbd> 键可取消音符的选择。
-> 
-> 当输入了多个音符时，按 <kbd>Home</kbd> 键可选择第一个音符，按 <kbd>End</kbd> 键可选择最后一个音符。
+!!! info
+      按 <kbd>Esc</kbd> 键可取消音符的选择。
+
+!!! info
+      当输入了多个音符时，按 <kbd>Home</kbd> 键可选择第一个音符，按 <kbd>End</kbd> 键可选择最后一个音符。
 
 ---
 
@@ -51,12 +55,12 @@
 
 以下方法可选择多个音符。选中的音符可以批量进行移动、复制、删除等操作。
 
-- **拖动包围多个音符**：批量选择多个音符
-- **<kbd>Ctrl</kbd> + 点击**：逐个选择多个音符
-- **<kbd>Shift</kbd> + 点击**：连续选择多个音符
-- **<kbd>Shift</kbd> + 左右方向键**：逐个选择连续音符
-- **点击音符 → <kbd>Shift</kbd> + <kbd>Home</kbd>**：选择点击音符之前的所有音符
-- **点击音符 → <kbd>Shift</kbd> + <kbd>End</kbd>**：选择点击音符之后的所有音符
+- 拖动包围多个音符：批量选择多个音符
+- <kbd>Ctrl</kbd> + 点击：逐个选择多个音符
+- <kbd>Shift</kbd> + 点击：连续选择多个音符
+- <kbd>Shift</kbd> + 左右方向键：逐个选择连续音符
+- 点击音符 → <kbd>Shift</kbd> + <kbd>Home</kbd>：选择点击音符之前的所有音符
+- 点击音符 → <kbd>Shift</kbd> + <kbd>End</kbd>：选择点击音符之后的所有音符
 
 ![批量选择](https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/voisona-manual/348e9bc7-efb1-80f2-83d2-d93e224fa956/f1f43f1649e74b95d2adfd3b38e9f013.png)
 
@@ -138,9 +142,11 @@
 3. 输入歌词并确认。
    ![输入歌词](https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/voisona-manual/348e9bc7-efb1-80ce-b6b6-faf3b4d53fdb/88f9685969fae2536b1ab155d8589432.png)
 
-> 输入中，按 <kbd>Tab</kbd> 键移动到下一个音符，按 <kbd>Shift</kbd> + <kbd>Tab</kbd> 键移动到上一个音符。
-> 
-> 在歌词中间输入空格，空格后的歌词将被分配到下一个音符。
+!!! info
+      输入中，按 <kbd>Tab</kbd> 键移动到下一个音符，按 <kbd>Shift</kbd> + <kbd>Tab</kbd> 键移动到上一个音符。
+
+!!! info
+      在歌词中间输入空格，空格后的歌词将被分配到下一个音符。
 
 ---
 
@@ -151,7 +157,8 @@
 
 ![元音省略](https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/voisona-manual/348e9bc7-efb1-8099-ae8d-ff03296b7174/9e4bcb960137a652c1e85529ef2047ca.png)
 
-> 一个音符至少需要一个元音。例如，仅「す'」一个音符时，元音不会被省略。
+!!! info
+      一个音符至少需要一个元音。例如，仅「す'」一个音符时，元音不会被省略。
 
 ---
 
@@ -163,7 +170,8 @@
 
 ![英文分词](https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/voisona-manual/348e9bc7-efb1-803c-9ab1-f0adbe9afb50/e4bcf34297e39e75622e3e8fa6024435.png)
 
-> 此外，在钢琴卷帘上右键点击开启「英文歌词自动分割」，英文歌词会自动按音节分割并分配到音符。
+!!! info
+      此外，在钢琴卷帘上右键点击开启「英文歌词自动分割」，英文歌词会自动按音节分割并分配到音符。
 
 ---
 
@@ -172,10 +180,11 @@
 中文歌词可以以简体字、繁体字、拼音、注音输入。  
 使用拼音或注音输入时，需要按以下方式设置声调：
 
-- **拼音**：在拼音后面附加「0」～「4」的数字
-- **注音**：在注音后面附加声调符号「˙」「ˉ」「ˊ」「ˇ」「ˋ」（轻声「˙」也可放在注音前面）
+- 拼音：在拼音后面附加「0」～「4」的数字
+- 注音：在注音后面附加声调符号「˙」「ˉ」「ˊ」「ˇ」「ˋ」（轻声「˙」也可放在注音前面）
 
-> **注意**：不能使用 mā、méi、hǎo、huì 这类在字母上方标有声调符号的拼音写法。
+!!! warning
+      不能使用 mā、méi、hǎo、huì 这类在字母上方标有声调符号的拼音写法。
 
 ![中文声调](https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/voisona-manual/348e9bc7-efb1-8073-8398-c5416fcd22ed/304752129ae1c0260f66968758e96c5c.png)
 
@@ -185,13 +194,15 @@
 
 可以一次性输入多个音符的歌词。
 
-> 选中音符的状态下，从该音符开始输入歌词。未选中音符的状态下，从第一个音符开始输入歌词。
+!!! info
+      选中音符的状态下，从该音符开始输入歌词。未选中音符的状态下，从第一个音符开始输入歌词。
 
 1. 点击「批量输入歌词」按钮，显示面板。
 2. 输入歌词。
+   > 对于支持多语言演唱的声库，请从下拉列表中选择所需的语言。
 3. 通过单选按钮设置歌词分配方式：
-    - **空格分隔**：以空格分隔的块作为一个音符分配
-    - **1音符1字 或 1音符1音节**：每个音符分配1个字（日语）或每个音符分配1个音节（英语、中文）
+    - 空格分隔：以空格分隔的块作为一个音符分配
+    - 1音符1字 或 1音符1音节：每个音符分配1个字（日语）或每个音符分配1个音节（英语、中文）
 4. 点击「更新」。
    ![批量输入歌词](https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/voisona-manual/348e9bc7-efb1-8062-a8f6-fd1b7faa944e/68ed8cf6dad0f56c9ca00798e1b16024.png)
    歌词被输入到音符中。
@@ -224,10 +235,11 @@
 
 英文单词的重音（强调部分）可以在元音后添加符号来表示。不过，歌声中指定重音后合成的声音往往差异不大。
 
-- **主重音**（发音最强的部分）：`*~`
-- **次重音**（发音较强的部分）：`*`
+- 主重音（发音最强的部分）：`*~`
+- 次重音（发音较强的部分）：`*`
 
-> 在使用日语音库输入英文歌词时，会分配最接近的日语音素。请注意，日语音素不一定能恰当表现英语发音。
+!!! info
+      在使用日语音库输入英文歌词时，会分配最接近的日语音素。请注意，日语音素不一定能恰当表现英语发音。
 
 ---
 
@@ -241,7 +253,12 @@
    ![设置符号1](https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/voisona-manual/348e9bc7-efb1-80c7-aafa-f869587ad3ba/a27f44724089c4f064b41cdd1cf89b3c.png)
    ![设置符号2](https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/voisona-manual/348e9bc7-efb1-80ac-8d21-e3dbcf90b06c/9ef4df72add1a2fe6ab3cca8ca3ed90f.png)
 
-> **设置要点**：正确设置调号对于歌手获得良好演唱效果至关重要。此外，设置强弱记号可以为歌声增添表现力。但根据声库或乐谱的不同，强弱记号的效果可能难以体现。
+!!! info "设置要点"
+      为获得良好的演唱效果，正确设置调号至关重要。
+
+      此外，设置强弱记号可以增添歌声的表现力。
+      
+      但是，根据声库或乐谱的不同，强弱记号的效果可能难以表现出来。
 
 ---
 
@@ -268,7 +285,10 @@
 2. 在属性的「属性」中勾选想要设置的项目。音符上将显示相应符号。
    ![演奏法](https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/voisona-manual/348e9bc7-efb1-80e5-8a82-fefeb6cdc7f2/2dd904d8d3b26c2b22d3c1e7631731e0.png)
 
-> **设置要点**：连音线在希望多个音符平滑连接演唱时效果显著。但根据声库或乐谱的不同，演奏法和连音线的效果可能难以体现。
+!!! info "设置要点"
+      连音线在希望多个音符平滑连接演唱时效果显著。
+
+      但是，根据声库或乐谱的不同，演奏法和连音线的效果可能难以表现出来。
 
 ---
 
@@ -280,7 +300,10 @@
 2. 在属性的「歌唱表现」中勾选想要设置的项目。音符上方将显示图标。
    ![歌唱表现](https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/voisona-manual/348e9bc7-efb1-80ad-a3ca-eebf4ef8082d/1c01dde8668407e85a77f78bdc06c63e.png)
 
-> **关于歌唱表现的再现**：VoiSona 中，声库提供者独特的歌唱表现也经过了 AI 学习，合成时可通过指定「歌唱表现」来再现。但根据声库版本、歌词、音高等因素，歌唱表现的明显程度有所不同，有时可能无法再现。
+!!! info "关于歌唱表现的再现"
+      VoiSona 中，声库提供者独特的歌唱表现也经过了 AI 学习，合成时可通过指定「歌唱表现」来再现。
+
+      但是，根据声库版本、歌词、音高等不同因素，歌唱表现的明显程度有所不同，会有表现不出现的情况。
 
 ---
 
@@ -292,8 +315,9 @@
 2. 在属性的「语言」中，从下拉列表中选择要设置的语言。设置后将可以输入对应语言的歌词。
    ![语言设置](https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/voisona-manual/348e9bc7-efb1-80ba-8bf5-f31d9e0e13cc/8672d7672cce76584df5a6e15cd1f254.png)
 
-> 可用的歌词书写格式会显示在语言选择栏的下方。
-> ![歌词格式](https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/voisona-manual/348e9bc7-efb1-8057-83e2-c44eef8b6781/d45ca15cb1e4dfb9e074164f8f28e5f9.png)
+!!! info
+      可用的歌词书写格式会显示在语言选择栏的下方。
+      ![歌词格式](https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/voisona-manual/348e9bc7-efb1-8057-83e2-c44eef8b6781/d45ca15cb1e4dfb9e074164f8f28e5f9.png)
 
 ---
 
@@ -330,4 +354,9 @@
    处理完成后「冻结」按钮变为 ON，即可播放。
    ![冻结完成](https://s3.ap-northeast-1.amazonaws.com/wraptas-prod/voisona-manual/348e9bc7-efb1-80e2-95b8-cf298de0e207/c3185fb136bdd6c5f92f490c041d4bb5.png)
 
-> **关于冻结轨道功能**：通常，语音合成处理在每次播放时实时进行，但根据设备性能，处理负载可能过高，导致播放断续。使用此功能可以提前合成音频，大幅减轻播放时的负载。特别是在使用多个轨道播放出现中断时，将正在编辑以外的轨道冻结可能会使播放更加流畅。
+!!! info "关于冻结轨道功能"
+      通常，语音合成处理在每次播放时实时进行，但根据设备性能，处理负载可能过高，导致播放断续。
+
+      使用此功能可以提前合成音频，大幅减轻播放时的负载。
+
+      特别是在使用多个轨道播放出现中断时，冻结正在编辑以外的轨道可能会使播放更加流畅。
