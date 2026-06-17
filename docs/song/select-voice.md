@@ -12,14 +12,14 @@
 
 1. 访问 [ARTIST](https://voisona.com/song/artist/) 页面，购买许可证。
 
-   !!! info
-         您也可以通过「可试用」声库中的「前往购买页面」访问。
-         ![前往购买页面](images/song_select-voice_Selecting_a_Voice_Library_9.png)
+    !!! info
+        您也可以通过「可试用」声库中的「前往购买页面」访问。
+        ![前往购买页面](images/song_select-voice_Selecting_a_Voice_Library_9.png)
 
 2. 重新启动 VoiSona 应用程序。
 
-   !!! info
-         当您使用许可证[登录](login.md#_1)您的帐户时，它将自动添加到语音库列表中。
+    !!! info
+          当您使用许可证[登录](login.md#_1)您的帐户时，它将自动添加到语音库列表中。
 
 3. 下载并选择声库。
 
