@@ -1,6 +1,6 @@
 # VoiSona 用户指南
 
-![VoiSona](image.png)
+![VoiSona](header_image_title.png)
 
 **来吧，将想象化为歌声，以双手赋予文字生命。**
 
