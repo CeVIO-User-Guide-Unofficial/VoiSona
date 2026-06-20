@@ -1,4 +1,4 @@
-原文：<https://manual.voisona.com/ja/song/pc/2b6e9bc7efb180be8b0ff7f8a0f99702>
+原文：[ログインする](https://manual.voisona.com/ja/song/pc/2b6e9bc7efb180be8b0ff7f8a0f99702)
 
 ---
 

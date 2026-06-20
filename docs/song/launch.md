@@ -1,4 +1,4 @@
-原文：<https://manual.voisona.com/ja/song/pc/2a9e9bc7efb1809f8f42dff0a1889f99>
+原文：[VoiSonaを起動する](https://manual.voisona.com/ja/song/pc/2a9e9bc7efb1809f8f42dff0a1889f99)
 
 ---
 
