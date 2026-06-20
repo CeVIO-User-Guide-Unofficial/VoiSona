@@ -29,6 +29,20 @@ theme:
     - scheme: slate
       primary: orange
 
+extra:
+  social:
+  - icon: fontawesome/brands/twitter 
+    link: https://twitter.com/VoiSonaOfficial"
+    name: X（旧 Twitter）上的 VoiSona
+  - icon: material/web
+    link: https://voisona.com/
+    name: VoiSona官方网址
+
+# CSS
+extra_css:
+  - material/assets/stylesheets/extra.css
+  - material/assets/stylesheets/footer.css
+
 # Extensions
 markdown_extensions:
   - abbr
