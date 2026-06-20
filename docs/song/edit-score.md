@@ -154,9 +154,9 @@
 
 ---
 
-#### 省略元音（日语）
+#### 清化元音（日语）
 
-在歌词末尾添加全角撇号（'），可以省略元音。  
+在歌词末尾添加全角撇号（'），可以使元音清化。  
 例如歌词「いぇす」发音为「y, e, s, u」，而「いぇす'」发音为「y, e, s」，/u/ 会被省略。
 
 ![元音省略](images/song_edit-score_Editing_Lyrics_2.png)
@@ -309,7 +309,7 @@
    ![设置符号1](images/song_edit-score_Setting_Tempo,_Time_Signature,_Key_Signature,_and_Dynamics_1.png)
    ![设置符号2](images/song_edit-score_Setting_Tempo,_Time_Signature,_Key_Signature,_and_Dynamics_2.png)
 
-!!! info "设置要点"
+!!! info "设置的要点"
       为获得良好的演唱效果，正确设置调号至关重要。
 
       此外，设置强弱记号可以增添歌声的表现力。
@@ -341,7 +341,7 @@
 2. 在属性的「属性」中勾选想要设置的项目。音符上将显示相应符号。
    ![演奏法](images/song_edit-score_Changing_Properties_3.png)
 
-!!! info "设置要点"
+!!! info "设置的要点"
       连音线在希望多个音符平滑连接演唱时效果显著。
 
       但是，根据声库或乐谱的不同，演奏法和连音线的效果可能难以表现出来。
