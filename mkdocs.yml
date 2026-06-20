@@ -87,7 +87,9 @@ plugins:
 
 # Contents
 nav:
-  - 首页: index.md
+  - 首页: 
+    - 首页: index.md
+    - 关于: about.md
   - VoiSona Song:
     - 用户指南: song/manual.md
     - 快速入门: song/quickstart.md
