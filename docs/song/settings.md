@@ -1,4 +1,4 @@
-原文：<https://manual.voisona.com/ja/song/pc/2b6e9bc7efb180edbe15debe5788de33>
+原文：[環境設定を変更する](https://manual.voisona.com/ja/song/pc/2b6e9bc7efb180edbe15debe5788de33)
 
 ---
 

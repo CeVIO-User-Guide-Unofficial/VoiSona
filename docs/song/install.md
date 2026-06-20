@@ -1,4 +1,4 @@
-原文：<https://manual.voisona.com/ja/song/pc/294e9bc7efb180d18f29daa2d8ac833c>
+原文：[VoiSonaをインストールする](https://manual.voisona.com/ja/song/pc/294e9bc7efb180d18f29daa2d8ac833c)
 
 ---
 

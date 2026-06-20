@@ -26,22 +26,23 @@ theme:
     repo: fontawesome/brands/github
   language: zh
   palette:
-    - media: "(prefers-color-scheme: light)" 
-      scheme: default
+    - scheme: slate
       primary: orange
-      toggle:
-        icon: material/weather-night
-        name: 切换到深色主题
-    - media: "(prefers-color-scheme: dark)" 
-      scheme: slate
-      primary: orange
-      toggle:
-        icon: material/weather-sunny
-        name: 跟随系统
-    - media: "(prefers-color-scheme)"
-      toggle:
-        icon: material/brightness-auto
-        name: 切换到浅色主题
+      accent: yellow
+
+extra:
+  social:
+  - icon: fontawesome/brands/twitter 
+    link: https://twitter.com/VoiSonaOfficial"
+    name: X（旧 Twitter）上的 VoiSona
+  - icon: material/web
+    link: https://voisona.com/
+    name: VoiSona官方网址
+
+# CSS
+extra_css:
+  - material/assets/stylesheets/extra.css
+  - material/assets/stylesheets/footer.css
 
 # Extensions
 markdown_extensions:
