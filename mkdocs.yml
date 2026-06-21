@@ -87,9 +87,7 @@ plugins:
 
 # Contents
 nav:
-  - 首页: 
-    - 首页: index.md
-    - 关于: about.md
+  - 首页: index.md
   - VoiSona Song:
     - 用户指南: song/manual.md
     - 快速入门: song/quickstart.md
@@ -115,3 +113,5 @@ nav:
     - 环境设置: talk/settings.md
     - REST API 教程: talk/rest-api.md
     - 常见问题: talk/faq.md
+  - 其他: 
+    - 关于: others/about.md
