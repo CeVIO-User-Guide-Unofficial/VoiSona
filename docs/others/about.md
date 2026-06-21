@@ -12,14 +12,6 @@ layout: post
 
 本网站托管于 GitHub，使用 Cloudflare 发布，使用的主题为 [Material for MkDocs](https://squidfunk.github.io/mkdocs-material/)。
 
-## 联络
-
-若对本项目有任何疑问、意见或建议，请在 [Discussions](https://github.com/CeVIO-User-Guide-Unofficial/VoiSona/discussions) 页开启新话题。
-
-你可以通过 [Issues](https://github.com/CeVIO-User-Guide-Unofficial/VoiSona/issues/new) 报告项目中出现的任何问题。
-
-若需要进一步联络，请发送邮件至 [nachtgeistw@ceviodoc.uk](mailto:nachtgeistw@ceviodoc.uk)。
-
 ## 译者
 
 夜轮

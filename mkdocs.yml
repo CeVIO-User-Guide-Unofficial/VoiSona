@@ -114,4 +114,6 @@ nav:
     - REST API 教程: talk/rest-api.md
     - 常见问题: talk/faq.md
   - 其他: 
-    - 关于: others/about.md
+    - others/change-log-website.md
+    - others/about.md
+    -  others/contact.md
